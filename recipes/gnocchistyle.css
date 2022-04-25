@@ -11,3 +11,15 @@ html {
     ol {
         text-align: left;
     }  
+    .button {
+        text-decoration: none;
+        border: .5px solid #000; 
+        font-size: 50px;
+        background-color: antiquewhite;
+        color: black;
+        padding: 2px;
+        border-radius: 1px;
+    }
+    body {
+        padding-bottom: 50px;
+    }
