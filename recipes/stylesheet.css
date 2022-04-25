@@ -1,0 +1,27 @@
+html {
+    background-color: cadetblue;
+    
+}
+
+
+
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 90px;
+    font-style: normal;
+}
+a {
+    text-decoration: none;
+    border: 0.2px solid #000;
+    color: black;
+    background-color: lightgoldenrodyellow;
+    padding: 5px;
+    border-radius: 1px;
+    font-size: 40px;
+}
+#pgif {
+    height: 400px;
+    width: auto;
+}  
